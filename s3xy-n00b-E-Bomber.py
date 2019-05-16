@@ -9,7 +9,14 @@ import smtplib
 import getpass
 import sys
 
-print("""		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;		; E M A I L   B O M B E R;		;---------------------------;		; Author : s3xy_n00b;		; Contact : https://m.me/officialmazidulislam ;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;""")
+print("""
+		::::::::::::::::::::::::::::::::::::::
+		:       E M A I L   B O M B E R      :
+		:------------------------------------:
+		:       Author :   S3XY N00B         :
+		: Contact : https://m.me/s3xy.n00b.1 :
+		::::::::::::::::::::::::::::::::::::::
+
 
 server = raw_input ('MailServer Gmail/Yahoo: ')
 user = raw_input('Email: ')
