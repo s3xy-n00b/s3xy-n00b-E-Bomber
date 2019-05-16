@@ -12,6 +12,7 @@
 
 And start bombing. :-)
 
-#This tool is only for education purpose.Use it at your own risk !
+# Disclaimer
+This tool is only for educational purpose.Use it at your own risk.
 
-#Author : s3xy-n00b
+# Author : s3xy-n00b
