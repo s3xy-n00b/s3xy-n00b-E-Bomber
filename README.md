@@ -8,6 +8,7 @@
 4. git clone https://github.com/s3xy-n00b/s3xy-n00b-E-Bomber.git
 5. cd s3xy-n00b-E-Bomber
 6. python2 s3xy-n00b-E-Bomber.py
+[ Else try " python2 s3xy-n00b-E-Bomber-2.py]
 
 And start bombing. :-)
 
